@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MTG Data Processing</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script>
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+            updatePlotlyTheme();
+        }
+
+        function updatePlotlyTheme() {
+            var layout = {
+                paper_bgcolor: 'transparent',
+                plot_bgcolor: 'transparent',
+                font: {
+                    color: document.body.classList.contains('dark-mode') ? '#f1f1f1' : '#000'
+                }
+            };
+            Plotly.relayout('plotly-graph', layout);
+        }
+
+        document.addEventListener("DOMContentLoaded", function() {
+            updatePlotlyTheme();
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>MTG Data Processing</h1>
+        <p>{{ status }}</p>
+        <h2>Deck Values</h2>
+        <ul>
+            {% for deck, value in deck_values %}
+            <li>{{ deck }}: {{ value }}</li>
+            {% endfor %}
+        </ul>
+        <div id="plotly-graph">
+            {{ graph|safe }}
+        </div>
+        <a href="/download">Download Processed Data</a>
+        <button class="toggle-button" onclick="toggleDarkMode()">Toggle Dark Mode</button>
+    </div>
+</body>
+</html>

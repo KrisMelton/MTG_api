@@ -1,0 +1,88 @@
+section,count,name,mana_cost,type,set,set_code,collector_number,lang,rarity,artist,finish,usd_price,eur_price,tix_price,scryfall_uri,scryfall_id
+lands,1,Sunpetal Grove,"",Land,Ixalan,xln,257,en,rare,Dimitar Marinski,,3.01,2.87,0.02,https://scryfall.com/card/xln/257/sunpetal-grove,0f234312-00e8-49f7-a489-f4c316b0a81a
+nonlands,1,Axebane Guardian,{2}{G},Creature — Human Druid,Return to Ravnica,rtr,115,en,common,Slawomir Maniak,,0.26,0.32,0.03,https://scryfall.com/card/rtr/115/axebane-guardian,725584fe-9e97-4020-89b1-5e5b45a5beb2
+nonlands,1,Sakura-Tribe Elder,{1}{G},Creature — Snake Shaman,Commander 2020,c20,187,en,common,Carl Critchlow,,1.59,0.89,0.03,https://scryfall.com/card/c20/187/sakura-tribe-elder,c83be2b7-0373-4389-9aa0-523db58f4d2a
+nonlands,1,Farseek,{1}{G},Sorcery,Commander 2019,c19,165,en,common,Martina Pilcerova,,0.98,1.06,0.03,https://scryfall.com/card/c19/165/farseek,061f0032-eb14-4c63-8231-aa61472396c2
+nonlands,1,Angelic Shield,{W}{U},Enchantment,Duel Decks: Venser vs. Koth,ddi,27,en,uncommon,Adam Rex,,0.28,0.22,0.05,https://scryfall.com/card/ddi/27/angelic-shield,b5c268cc-891b-49df-8964-736d325b9403
+nonlands,1,Beast Within,{2}{G},Instant,Commander 2021,c21,186,en,uncommon,Jesper Ejsing,,1.3,1.12,0.26,https://scryfall.com/card/c21/186/beast-within,c5454c02-db06-4023-bf56-3fcd5f8a189e
+commanders,1,"Arcades, the Strategist",{1}{G}{W}{U},Legendary Creature — Elder Dragon,Core Set 2019,m19,212,en,mythic,Even Amundsen,,6.16,4.7,0.02,https://scryfall.com/card/m19/212/arcades-the-strategist,1e90c638-d4b2-4243-bbc4-1cc10516c40f
+nonlands,1,Dusk // Dawn,{2}{W}{W} // {3}{W}{W},Sorcery // Sorcery,Commander 2019,c19,63,en,rare,Noah Bradley,,0.25,0.29,0.02,https://scryfall.com/card/c19/63/dusk-dawn,e9d5aee0-5963-41db-a22b-cfea40a967a3
+lands,1,Azorius Chancery,"",Land,Kaldheim Commander,khc,106,en,uncommon,John Avon,,0.15,0.1,0.04,https://scryfall.com/card/khc/106/azorius-chancery,caccc497-5312-4a28-8582-aa95bcbfb436
+nonlands,1,Simic Signet,{2},Artifact,Commander 2021,c21,262,en,common,Mike Sass,,0.25,0.26,0.03,https://scryfall.com/card/c21/262/simic-signet,4cb9a0b9-ddc8-4cdc-b352-0289c66f6fed
+nonlands,1,Sol Ring,{1},Artifact,Commander 2021,c21,263,en,uncommon,Mike Bierek,,0.91,0.76,0.1,https://scryfall.com/card/c21/263/sol-ring,4cbc6901-6a4a-4d0a-83ea-7eefa3b35021
+nonlands,1,Brave the Sands,{1}{W},Enchantment,Commander Anthology Volume II,cm2,19,en,uncommon,Dave Kendall,,2.93,1.83,0.03,https://scryfall.com/card/cm2/19/brave-the-sands,09ab8b60-cdb1-43a8-b180-b562bb89b5a1
+nonlands,1,Azorius Signet,{2},Artifact,Kaldheim Commander,khc,97,en,uncommon,Raoul Vitale,,0.37,0.29,0.05,https://scryfall.com/card/khc/97/azorius-signet,1b6ed82a-42a9-4024-bcad-7c2899882767
+nonlands,1,Akroma's Will,{3}{W},Instant,Commander Legends,cmr,3,en,rare,Antonio José Manzanedo,,21.14,19.09,10.84,https://scryfall.com/card/cmr/3/akromas-will,c281997b-1566-4469-a14c-6645f81ab023
+nonlands,1,Teferi's Ageless Insight,{2}{U}{U},Legendary Enchantment,Core Set 2021,m21,76,en,rare,Kieran Yanner,,2.42,2.02,0.02,https://scryfall.com/card/m21/76/teferis-ageless-insight,c38d1722-96b0-4756-9da9-fe18b1c80649
+nonlands,1,Wave of Reckoning,{4}{W},Sorcery,Commander 2016,c16,79,en,rare,Josh Hass,,3.7,4.33,1.47,https://scryfall.com/card/c16/79/wave-of-reckoning,27d6655d-f55c-4bfc-a9c6-10232ebc707b
+nonlands,1,Assault Formation,{1}{G},Enchantment,Jumpstart,jmp,378,en,rare,Kieran Yanner,,0.81,0.59,0.02,https://scryfall.com/card/jmp/378/assault-formation,6bf261c8-98e4-491e-9e51-a9058ff2c03a
+nonlands,1,Slaughter the Strong,{1}{W}{W},Sorcery,Commander Legends,cmr,48,en,uncommon,Randy Vargas,,0.08,0.12,0.04,https://scryfall.com/card/cmr/48/slaughter-the-strong,2d986177-3814-4069-bce5-f9e54c528e85
+lands,6,Island,"",Basic Land — Island,Adventures in the Forgotten Realms,afr,269,en,common,Adam Paquette,,0.1,0.1,0.1,https://scryfall.com/card/afr/269/island,1afa60b6-cd0d-4c23-af81-88049ea45475
+nonlands,1,Wall of Mulch,{1}{G},Creature — Wall,Magic 2015,m15,208,en,uncommon,Anthony S. Waters,,0.21,0.22,0.03,https://scryfall.com/card/m15/208/wall-of-mulch,a76ec859-59a6-45b2-bbd8-6f89453fe3ec
+lands,1,Barkchannel Pathway // Tidechannel Pathway,"",Land // Land,Kaldheim,khm,251,en,rare,Daniel Ljunggren,,4.87,4.77,0.15,https://scryfall.com/card/khm/251/barkchannel-pathway-tidechannel-pathway,b6de14ae-0132-4261-af00-630bf15918cd
+lands,1,Hinterland Harbor,"",Land,Dominaria,dom,240,en,rare,Daniel Ljunggren,,1.06,1.35,0.02,https://scryfall.com/card/dom/240/hinterland-harbor,d631d040-51e9-4540-91e7-aeb5ade84090
+nonlands,1,Cyclonic Rift,{1}{U},Instant,Double Masters,2xm,47,en,rare,Chris Rahn,,34.66,26.59,0.12,https://scryfall.com/card/2xm/47/cyclonic-rift,ff08e5ed-f47b-4d8e-8b8b-41675dccef8b
+nonlands,1,Orator of Ojutai,{1}{W},Creature — Bird Monk,Commander 2017,c17,67,en,uncommon,Zack Stella,,0.3,0.19,0.03,https://scryfall.com/card/c17/67/orator-of-ojutai,46f90a7e-e11c-43bd-b4a2-a0970848fe1b
+nonlands,1,Wall of Glare,{1}{W},Creature — Wall,Urza's Destiny,uds,25,en,common,Patrick Ho,,0.84,0.62,0.04,https://scryfall.com/card/uds/25/wall-of-glare,5f159193-fcf8-437c-b14a-06718a446a5c
+lands,1,Azorius Guildgate,"",Land — Gate,Kaldheim Commander,khc,107,en,common,Drew Baker,,0.26,0.03,0.05,https://scryfall.com/card/khc/107/azorius-guildgate,569b53fb-8776-4301-9ed6-f7eabb08cebf
+nonlands,1,Lightning Greaves,{2},Artifact — Equipment,Double Masters,2xm,267,en,uncommon,Jeremy Jarvis,,4.92,4.04,0.03,https://scryfall.com/card/2xm/267/lightning-greaves,e6cec97f-0a2b-4543-a02e-d5e42d337790
+nonlands,1,Riptide Turtle,{1}{U},Creature — Turtle,Theros Beyond Death,thb,61,en,common,Brian Valeza,,0.08,0.07,0.03,https://scryfall.com/card/thb/61/riptide-turtle,cc4ba296-950c-4e39-ab5e-06be07e4a190
+lands,1,Hengegate Pathway // Mistgate Pathway,"",Land // Land,Kaldheim,khm,260,en,rare,Yeong-Hao Han,,6.86,9.27,2.43,https://scryfall.com/card/khm/260/hengegate-pathway-mistgate-pathway,7ef37cb3-d803-47d7-8a01-9c803aa2eadc
+nonlands,1,Wall of Shards,{1}{W},Snow Creature — Wall,Coldsnap,csp,23,en,uncommon,Alex Horley-Orlandelli,,4.8,1.62,0.03,https://scryfall.com/card/csp/23/wall-of-shards,884ee8d8-4c0d-4e44-8321-bccd18195693
+nonlands,1,Swords to Plowshares,{W},Instant,Commander Legends,cmr,387,en,uncommon,Sam Wolfe Connelly,,1.09,1.25,0.16,https://scryfall.com/card/cmr/387/swords-to-plowshares,be2b4177-e47c-4dde-9ead-31b7602065ec
+nonlands,1,Arcane Signet,{2},Artifact,Commander 2021,c21,234,en,common,Dan Murayama Scott,,0.33,0.46,0.05,https://scryfall.com/card/c21/234/arcane-signet,01b186af-8825-4257-80fd-9c1ecdb21414
+nonlands,1,Fell the Mighty,{4}{W},Sorcery,Commander 2017,c17,60,en,rare,Raymond Swanland,,0.25,0.28,0.02,https://scryfall.com/card/c17/60/fell-the-mighty,0741e122-e538-4e0b-bdf4-c21b47d27b5c
+nonlands,1,Eerie Interlude,{2}{W},Instant,Kaldheim Commander,khc,22,en,rare,Svetlin Velinov,,4.07,2.73,0.03,https://scryfall.com/card/khc/22/eerie-interlude,4ba9f15f-00d2-4797-9228-91b320e85705
+nonlands,1,Rampant Growth,{1}{G},Sorcery,Commander 2021,c21,204,en,common,Steven Belledin,,0.33,0.28,0.01,https://scryfall.com/card/c21/204/rampant-growth,d2e16cbe-b52b-46d7-8532-2068684b3491
+nonlands,1,Carven Caryatid,{1}{G}{G},Creature — Spirit,Jumpstart,jmp,382,en,uncommon,Jim Nelson,,0.21,0.23,0.03,https://scryfall.com/card/jmp/382/carven-caryatid,53847a21-aded-4aaa-9bf1-8592e67763ef
+nonlands,1,Jeskai Barricade,{1}{W},Creature — Wall,Fate Reforged,frf,15,en,uncommon,Noah Bradley,,0.46,0.36,0.03,https://scryfall.com/card/frf/15/jeskai-barricade,3aa2d511-6eec-42dd-9ebe-1260c8527856
+nonlands,1,Stalwart Shield-Bearers,{1}{W},Creature — Human Soldier,Rise of the Eldrazi,roe,46,en,common,Austin Hsu,,0.34,1.15,0.03,https://scryfall.com/card/roe/46/stalwart-shield-bearers,868256bb-d4e2-42eb-a43a-360148aec06f
+nonlands,1,Wall of Tanglecord,{2},Artifact Creature — Wall,Scars of Mirrodin,som,222,en,common,Vance Kovacs,,0.27,0.25,0.03,https://scryfall.com/card/som/222/wall-of-tanglecord,792e2aed-ce6e-4fa1-a31c-a4574e5cf1f5
+nonlands,1,Bar the Door,{2}{W},Instant,Dark Ascension,dka,2,en,common,Ryan Pancoast,,0.23,0.26,0.03,https://scryfall.com/card/dka/2/bar-the-door,b593f544-2d82-4237-b9a9-88503b5036cc
+nonlands,1,High Alert,{1}{W}{U},Enchantment,Ravnica Allegiance,rna,182,en,uncommon,Daarken,,0.42,0.45,0.03,https://scryfall.com/card/rna/182/high-alert,ce124f6e-ef0c-4d01-a876-e34d3e445108
+nonlands,1,Tower Defense,{1}{G},Instant,Ravnica Allegiance,rna,147,en,uncommon,Craig J Spearing,,0.24,0.18,0.03,https://scryfall.com/card/rna/147/tower-defense,195e94a4-a698-4c66-9428-5cc8a40d42c6
+nonlands,1,Drift of Phantasms,{2}{U},Creature — Spirit,Ravnica: City of Guilds,rav,46,en,common,Michael Phillippi,,0.76,0.35,0.03,https://scryfall.com/card/rav/46/drift-of-phantasms,c1096ce5-f776-4028-b231-e6eaee35014b
+nonlands,1,Counterspell,{U}{U},Instant,Modern Horizons 2,mh2,267,en,uncommon,Zack Stella,,1.4,1.18,0.04,https://scryfall.com/card/mh2/267/counterspell,1920dae4-fb92-4f19-ae4b-eb3276b8dac7
+nonlands,1,Angelic Wall,{1}{W},Creature — Wall,Magic 2014,m14,4,en,common,Allen Williams,,0.11,0.13,0.03,https://scryfall.com/card/m14/4/angelic-wall,7fe8f88e-8a51-494b-a008-fbfe624f97f7
+nonlands,1,Crashing Drawbridge,{2},Artifact Creature — Wall,Throne of Eldraine,eld,217,en,common,Mark Behm,,0.4,0.27,0.03,https://scryfall.com/card/eld/217/crashing-drawbridge,b7d7108f-635c-423b-988a-bc8fc4c6edef
+nonlands,1,Generous Gift,{2}{W},Instant,Commander Legends,cmr,375,en,uncommon,Kev Walker,,0.44,0.62,0.29,https://scryfall.com/card/cmr/375/generous-gift,26296a96-bdca-405f-ab06-e280b42c4ab9
+nonlands,1,Meekstone,{1},Artifact,Seventh Edition,7ed,307,en,rare,David Martin,,7.64,5.57,1.75,https://scryfall.com/card/7ed/307/meekstone,0a691664-9275-4b89-a8e3-b99c88717ffb
+nonlands,1,Selesnya Signet,{2},Artifact,Commander Anthology,cma,228,en,common,Raoul Vitale,,2.33,1.5,0.03,https://scryfall.com/card/cma/228/selesnya-signet,2fd90c6e-1cdc-4e53-b81e-7a095a63bb34
+nonlands,1,Swiftfoot Boots,{2},Artifact — Equipment,Kaldheim Commander,khc,105,en,uncommon,Svetlin Velinov,,1.96,1.16,0.04,https://scryfall.com/card/khc/105/swiftfoot-boots,bf700ec0-1fd3-4971-ab03-51365dc8f4f4
+nonlands,1,Portcullis Vine,{G},Creature — Plant Wall,Core Set 2021,m21,195,en,common,James Paick,,0.02,0.06,0.03,https://scryfall.com/card/m21/195/portcullis-vine,d1abd95a-4ecc-479c-b200-5aaf7c993ef8
+nonlands,1,Mnemonic Wall,{4}{U},Creature — Wall,Iconic Masters,ima,67,en,common,Trevor Claxton,,0.14,0.1,0.04,https://scryfall.com/card/ima/67/mnemonic-wall,a3e6784b-78e8-4f0b-8d27-d49c7cea9252
+nonlands,1,Fortified Rampart,{1}{W},Creature — Wall,Battle for Zendikar,bfz,27,en,common,David Gaillet,,0.07,0.14,0.03,https://scryfall.com/card/bfz/27/fortified-rampart,5095e2ab-a7f5-45bc-8b2f-31198ea27bba
+nonlands,1,Gatecreeper Vine,{1}{G},Creature — Plant,Duel Decks: Jace vs. Vraska,ddm,48,en,common,Trevor Claxton,,0.28,0.24,0.04,https://scryfall.com/card/ddm/48/gatecreeper-vine,e1ebaed7-b3d5-4eb8-93f7-3a65fd7b89b6
+nonlands,1,Jungle Barrier,{2}{G}{U},Creature — Plant Wall,Iconic Masters,ima,202,en,uncommon,Christine Choi,,0.14,0.09,0.04,https://scryfall.com/card/ima/202/jungle-barrier,a8097e6e-c04e-4266-a8f4-07e5fb0638d4
+nonlands,1,Shield Sphere,{0},Artifact Creature — Wall,Masters Edition,me1,166,en,common,Alan Rabinowitz,,7.65,4.64,0.04,https://scryfall.com/card/me1/166/shield-sphere,7a76a97e-a857-4593-ae7c-e393d8a868ac
+nonlands,1,Steel Wall,{1},Artifact Creature — Wall,Duel Decks: Mirrodin Pure vs. New Phyrexia,td2,3,en,common,David Day,,0.26,0.21,0.44,https://scryfall.com/card/td2/3/steel-wall,43dc4ff6-c26c-4dba-ac7f-6dee7c9e5345
+nonlands,1,Sylvan Caryatid,{1}{G},Creature — Plant,Theros,ths,180,en,rare,Chase Stone,,5.81,4.82,0.02,https://scryfall.com/card/ths/180/sylvan-caryatid,d40b65c1-b24d-492d-81b9-d8474ebdc08c
+nonlands,1,Hover Barrier,{2}{U},Creature — Illusion Wall,Return to Ravnica,rtr,40,en,uncommon,Mathias Kollros,,0.4,0.48,0.03,https://scryfall.com/card/rtr/40/hover-barrier,884afdb3-0d5f-45a1-b57e-6c3760aa0031
+nonlands,1,Perimeter Captain,{W},Creature — Human Soldier,Worldwake,wwk,16,en,uncommon,Steven Belledin,,1.38,1.1,0.03,https://scryfall.com/card/wwk/16/perimeter-captain,4e532309-5cf9-4d12-b673-f9baad30b800
+nonlands,1,Sunscape Familiar,{1}{W},Creature — Wall,Planeshift,pls,17,en,common,Brian Despain,,3.44,3.71,2.82,https://scryfall.com/card/pls/17/sunscape-familiar,9621f341-bf85-4b77-bf19-2fb013b4c955
+nonlands,1,Overgrown Battlement,{1}{G},Creature — Wall,Jumpstart,jmp,417,en,uncommon,Franz Vohwinkel,,0.24,0.3,0.03,https://scryfall.com/card/jmp/417/overgrown-battlement,50974264-b509-4df9-802b-623805a4cbee
+nonlands,1,Resolute Watchdog,{W},Creature — Dog,Ravnica Allegiance,rna,19,en,uncommon,Milivoj Ćeran,,0.26,0.19,0.03,https://scryfall.com/card/rna/19/resolute-watchdog,56d86909-b7f3-4a46-9904-e173853b79f1
+nonlands,1,Wall of Stolen Identity,{3}{U},Creature — Shapeshifter Wall,Commander 2019,c19,13,en,rare,Jason Felix,,1.42,1.14,3.7,https://scryfall.com/card/c19/13/wall-of-stolen-identity,359cc32c-ba90-43e0-b584-09efd321a672
+lands,1,Azorius Guildgate,"",Land — Gate,Kaldheim Commander,khc,107,en,common,Drew Baker,,0.26,0.03,0.05,https://scryfall.com/card/khc/107/azorius-guildgate,569b53fb-8776-4301-9ed6-f7eabb08cebf
+lands,1,Breeding Pool,"",Land — Forest Island,Ravnica Allegiance,rna,246,en,rare,Ravenna Tran,,16.52,15.29,0.29,https://scryfall.com/card/rna/246/breeding-pool,bb54233c-0844-4965-9cde-e8a4ef3e11b8
+nonlands,1,Wall of Junk,{2},Artifact Creature — Wall,Urza's Saga,usg,315,en,uncommon,Adam Rex,,0.53,0.55,0.05,https://scryfall.com/card/usg/315/wall-of-junk,cd3f88b3-9796-4d4d-af8b-543f0d280e77
+nonlands,1,Vine Trellis,{1}{G},Creature — Plant Wall,Duel Decks Anthology: Garruk vs. Liliana,gvl,4,en,common,DiTerlizzi,,0.5,0.51,0.03,https://scryfall.com/card/gvl/4/vine-trellis,4683fa31-da33-4313-82b5-0ed91f33e8d3
+nonlands,1,Wall of Blossoms,{1}{G},Creature — Plant Wall,Jumpstart,jmp,442,en,uncommon,Heather Hudson,,0.15,0.15,0.03,https://scryfall.com/card/jmp/442/wall-of-blossoms,f836b155-8829-460b-91f8-4cd00b988196
+nonlands,1,Wall of Runes,{U},Creature — Wall,Core Set 2021,m21,85,en,common,Zezhou Chen,,0.04,0.07,0.03,https://scryfall.com/card/m21/85/wall-of-runes,6ac0f66a-213f-463e-8ebb-35ff5940ea06
+lands,5,Forest,"",Basic Land — Forest,Adventures in the Forgotten Realms,afr,281,en,common,Adam Paquette,,0.1,0.1,0.1,https://scryfall.com/card/afr/281/forest,ee856e7a-37ee-435c-80e8-d0ac6f15892f
+lands,1,Rejuvenating Springs,"",Land,Commander Legends,cmr,354,en,rare,Alayna Danner,,4.03,4.0,3.37,https://scryfall.com/card/cmr/354/rejuvenating-springs,51e69910-0d90-48a0-af29-3cddaeec5151
+lands,1,Terramorphic Expanse,"",Land,Time Spiral Remastered,tsr,285,en,common,Dan Murayama Scott,,0.11,0.1,0.04,https://scryfall.com/card/tsr/285/terramorphic-expanse,ba2564ec-f092-45d6-a519-6f18dbcdaee6
+nonlands,1,Wall of Denial,{1}{W}{U},Creature — Wall,Modern Masters 2017,mm3,201,en,uncommon,Howard Lyon,,0.32,0.78,0.03,https://scryfall.com/card/mm3/201/wall-of-denial,0cd95bba-0c3d-4f2c-94ea-bbd3f396292c
+nonlands,1,Wall of Roots,{1}{G},Creature — Plant Wall,Iconic Masters,ima,190,en,common,Matt Stewart,,0.19,0.22,0.66,https://scryfall.com/card/ima/190/wall-of-roots,b65cb901-bfb0-454a-97ef-138021e524ff
+nonlands,1,"Tetsuko Umezawa, Fugitive",{1}{U},Legendary Creature — Human Rogue,Dominaria,dom,69,en,uncommon,Randy Vargas,,0.15,0.39,0.03,https://scryfall.com/card/dom/69/tetsuko-umezawa-fugitive,16185c50-f7b8-4cea-a129-dfad8e9df781
+nonlands,1,Wall of Omens,{1}{W},Creature — Wall,Kaldheim Commander,khc,35,en,uncommon,James Paick,,0.21,0.18,0.04,https://scryfall.com/card/khc/35/wall-of-omens,2561dc8e-1ea6-43f3-8cf1-afd7ec9a2191
+lands,1,Glacial Fortress,"",Land,Ixalan,xln,255,en,rare,James Paick,,1.26,1.48,0.02,https://scryfall.com/card/xln/255/glacial-fortress,cef133d9-26d2-4a1e-8d6a-829f1067c169
+lands,1,Prairie Stream,"",Land — Plains Island,Commander 2020,c20,299,en,rare,Adam Paquette,,0.14,0.44,0.02,https://scryfall.com/card/c20/299/prairie-stream,b9bc9e0e-8da2-4213-bb23-f46433425022
+lands,5,Plains,"",Basic Land — Plains,Adventures in the Forgotten Realms,afr,265,en,common,Adam Paquette,,0.1,0.1,0.1,https://scryfall.com/card/afr/265/plains,86626d69-78e0-42b9-81ed-fef46e3a89f7
+lands,1,Command Tower,"",Land,Commander 2021,c21,284,en,common,Evan Shipard,,0.15,0.15,0.05,https://scryfall.com/card/c21/284/command-tower,b53a112c-671c-4312-af56-53fdb735829b
+lands,1,Evolving Wilds,"",Land,Commander Legends,cmr,482,en,common,Steven Belledin,,0.16,0.1,0.04,https://scryfall.com/card/cmr/482/evolving-wilds,cb9a25c6-a1b7-4d6c-8a22-b407043a2280
+lands,1,Simic Guildgate,"",Land — Gate,Commander Legends,cmr,493,en,common,Adam Paquette,,0.15,0.13,0.04,https://scryfall.com/card/cmr/493/simic-guildgate,d93f0124-eb83-4261-8ad2-5590155274a4
+lands,1,Reliquary Tower,"",Land,Commander 2021,c21,311,en,uncommon,Jesper Ejsing,,2.07,1.55,0.03,https://scryfall.com/card/c21/311/reliquary-tower,642054bb-e581-4d8f-b452-908dde035987
+lands,1,Seaside Citadel,"",Land,Commander 2018,c18,277,en,uncommon,Volkan Baǵa,,0.82,0.46,0.03,https://scryfall.com/card/c18/277/seaside-citadel,697d2a41-59c1-48c2-9c64-65fb7e78ce4a
+lands,1,Selesnya Guildgate,"",Land — Gate,Zendikar Rising Commander,znc,139,en,common,Howard Lyon,,0.13,0.11,0.03,https://scryfall.com/card/znc/139/selesnya-guildgate,e9b50917-6b95-41b8-86c7-1f4c8204d099
+lands,1,Temple Garden,"",Land — Forest Plains,Guilds of Ravnica,grn,258,en,rare,Titus Lunter,,12.32,9.62,0.18,https://scryfall.com/card/grn/258/temple-garden,2b9b0195-beda-403e-bc27-7ae3be9f318c
